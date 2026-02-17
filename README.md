@@ -5,5 +5,5 @@ I am a Unity Developer with practical experience gained through personal and col
 ## Skills 🛠️
 
 *   **Unity & C#:** Core gameplay mechanics, OOP.
-*   **Development Stack:** Zenject (DI), UniTask, UniRx / R3, DOTween, NavMesh.
+*   **Development Stack:** Zenject (DI), UniTask, UniRx / R3, DOTween, NavMesh, Addressable.
 *   **Workflow & Tools:** Git, GitHub, Unity.
